@@ -47,14 +47,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/images\/desk1.jpeg": {
-		"ft": 16384,
-		"iS": 490434,
-		"oA": 0,
-		"oAP": "\/images\/desk1.jpg",
-		"oF": 0,
-		"opt": 1
-		},
 	"\/images\/desk1.jpg": {
 		"ft": 16384,
 		"iS": 477056,
@@ -78,6 +70,15 @@
 		"oA": 2,
 		"oAP": "\/index.html",
 		"oF": 0
+		},
+	"\/min\/app-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/min\/min\/app-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/styles.scss": {
 		"aP": 1,
