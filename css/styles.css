@@ -461,8 +461,8 @@ header.navigation {
     padding-left: 1em;
     padding-right: 2em; }
     header.navigation .logo img {
-      max-height: 50px;
-      padding: 0.8em 0; }
+      padding: 0.5em 0;
+      width: 60px; }
   header.navigation .navigation-menu-button {
     color: rgba(255, 255, 255, 0.7);
     display: block;
